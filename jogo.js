@@ -87,7 +87,7 @@ function pontuacao(acao){
 
 function situacao(int){
 	if (int == 0){
-		alert('PARABENS!!!! VOCE CONSEGUIU')
+		alert('PARABENS!!!! VOCE GANHOU')
 		finaliza()
 	}
 	
